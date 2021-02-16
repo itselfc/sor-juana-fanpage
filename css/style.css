@@ -27,9 +27,9 @@ body {
 
 article h2 {
   background: linear-gradient(
-    to right,
-    rgba(183, 183, 164, 1) 0%,
-    rgba(240, 239, 235, 1) 100%
+          to right,
+          rgba(183, 183, 164, 1) 0%,
+          rgba(240, 239, 235, 1) 100%
   );
   color: white;
   font-size: 30px;

@@ -1,0 +1,24 @@
+<changelist name="Default_Changelist" date="1613509707214" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/glyphicons-halflings-regular.eot" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/glyphicons-halflings-regular.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/glyphicons-halflings-regular.woff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/glyphicons-halflings-regular.woff2" />
+  </binary>
+</changelist>
