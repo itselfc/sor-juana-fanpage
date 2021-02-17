@@ -20,69 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4d32119-3bb7-4ab8-872d-e23a46f1dcc3" name="Default Changelist" comment="Bootstrap had been added to the project. Basic configurations to make it works.">
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.0.0-beta2-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/elements.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sorjuana.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/titles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/fonts/Buttercake.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/D5V-B6IWsAE6Hy1.jpg_large" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/img5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/img6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/intro-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/intro-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/images/intro.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,10 +46,17 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="bootstrap" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,17 +72,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage" />
-      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\resource\fonts" />
       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\css" />
       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage" />
       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\bootstrap-4.6.0-dist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage" />
+      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -169,10 +132,10 @@
       <screen x="94" y="0" width="2658" height="1152" />
     </state>
     <state x="1543" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613438484571" />
-    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog" timestamp="1613518251682">
+    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog" timestamp="1613598242133">
       <screen x="94" y="0" width="2658" height="1152" />
     </state>
-    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613518251682" />
+    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613598242133" />
     <state x="1597" y="224" key="SettingsEditor" timestamp="1613516822754">
       <screen x="94" y="0" width="2658" height="1152" />
     </state>
