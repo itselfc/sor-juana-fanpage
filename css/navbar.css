@@ -1,0 +1,43 @@
+@import url(colors.css);
+
+
+.navbar {
+    z-index: 99;
+    position: relative;
+    width: 100%;
+}
+
+.main-menu li{
+    padding-right: 20px;
+    text-transform: uppercase;
+
+}
+
+.main-menu li{
+    padding-right: 20px;
+    text-transform: uppercase;
+    margin-top: 3%;
+
+}
+
+.navbar-brand img {
+    top: 0px!important;
+    position: absolute;
+    width: 100px;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar a{
+    color: var(--gray);
+}
+
+.navbar a:hover{
+    color: var(--purple);
+    border-bottom: solid 2px var(--purple);
+}
+
+
+
