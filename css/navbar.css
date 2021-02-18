@@ -2,9 +2,12 @@
 
 
 .navbar {
+    top: 0;
     z-index: 99;
-    position: relative;
+    position: absolute!important;
     width: 100%;
+    background-color: transparent;
+
 }
 
 .main-menu li{
@@ -26,17 +29,17 @@
     width: 100px;
 }
 
-.navbar {
-    background-color: white;
-}
-
 .navbar a{
     color: var(--gray);
+    font-weight: bold;
+
+
 }
 
 .navbar a:hover{
-    color: var(--purple);
-    border-bottom: solid 2px var(--purple);
+
+    color: var(--red);
+    border-bottom: solid 2px var(--red);
 }
 
 
