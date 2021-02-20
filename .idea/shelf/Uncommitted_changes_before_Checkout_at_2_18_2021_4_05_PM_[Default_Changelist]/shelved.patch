@@ -1,0 +1,137 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d4d32119-3bb7-4ab8-872d-e23a46f1dcc3\" name=\"Default Changelist\" comment=\"Bootstrap had been added to the project. Basic configurations to make it works.\">\r\n      <change afterPath=\"$PROJECT_DIR$/css/colors.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/css/navbar.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"develop\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1oXfyuLUP99GVzG9k9L4LFMoCS2\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/css\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.editor\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\itzel\\Proyectos\\HTML\\sor-juana-fanpage\\css\" />\r\n      <recent name=\"C:\\Users\\itzel\\Proyectos\\HTML\\sor-juana-fanpage\" />\r\n      <recent name=\"C:\\Users\\itzel\\Proyectos\\HTML\\sor-juana-fanpage\\bootstrap-4.6.0-dist\" />\r\n    </key>\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\itzel\\Proyectos\\HTML\\sor-juana-fanpage\\css\" />\r\n      <recent name=\"C:\\Users\\itzel\\Proyectos\\HTML\\sor-juana-fanpage\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d4d32119-3bb7-4ab8-872d-e23a46f1dcc3\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1613438113855</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1613438113855</updated>\r\n      <workItem from=\"1613438114968\" duration=\"767000\" />\r\n      <workItem from=\"1613508640330\" duration=\"853000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Bootstrap had been added to the project. Basic configurations to make it works.\">\r\n      <created>1613515387732</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1613515387732</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"bootstrap\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"bootstrap\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"origin/master\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Bootstrap had been added to the project. Basic configurations to make it works.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Bootstrap had been added to the project. Basic configurations to make it works.\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1543\" y=\"234\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1613438484571\">\r\n      <screen x=\"94\" y=\"0\" width=\"2658\" height=\"1152\" />\r\n    </state>\r\n    <state x=\"1543\" y=\"234\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/94.0.2658.1152@94.0.2658.1152\" timestamp=\"1613438484571\" />\r\n    <state x=\"1517\" y=\"100\" width=\"1142\" height=\"958\" key=\"DiffContextDialog\" timestamp=\"1613534351909\">\r\n      <screen x=\"94\" y=\"0\" width=\"2658\" height=\"1152\" />\r\n    </state>\r\n    <state x=\"1517\" y=\"100\" width=\"1142\" height=\"958\" key=\"DiffContextDialog/94.0.2658.1152@94.0.2658.1152\" timestamp=\"1613534351909\" />\r\n    <state x=\"1597\" y=\"224\" key=\"SettingsEditor\" timestamp=\"1613516822754\">\r\n      <screen x=\"94\" y=\"0\" width=\"2658\" height=\"1152\" />\r\n    </state>\r\n    <state x=\"1597\" y=\"224\" key=\"SettingsEditor/94.0.2658.1152@94.0.2658.1152\" timestamp=\"1613516822754\" />\r\n    <state x=\"1681\" y=\"312\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1613518645870\">\r\n      <screen x=\"94\" y=\"0\" width=\"2658\" height=\"1152\" />\r\n    </state>\r\n    <state x=\"1681\" y=\"312\" key=\"Vcs.Push.Dialog.v2/94.0.2658.1152@94.0.2658.1152\" timestamp=\"1613518645870\" />\r\n    <state x=\"1745\" y=\"272\" key=\"run.anything.popup\" timestamp=\"1613529494219\">\r\n      <screen x=\"94\" y=\"0\" width=\"2658\" height=\"1152\" />\r\n    </state>\r\n    <state x=\"1745\" y=\"272\" key=\"run.anything.popup/94.0.2658.1152@94.0.2658.1152\" timestamp=\"1613529494219\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 27914f6457e9d7eb31ed9f402fbc37a32e7f6e7e)
++++ .idea/workspace.xml	(date 1613674304343)
+@@ -20,11 +20,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="d4d32119-3bb7-4ab8-872d-e23a46f1dcc3" name="Default Changelist" comment="Bootstrap had been added to the project. Basic configurations to make it works.">
+-      <change afterPath="$PROJECT_DIR$/css/colors.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/css/navbar.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -33,6 +29,9 @@
+   </component>
+   <component name="ComposerSettings">
+     <execution />
++  </component>
++  <component name="Git.Rebase.Settings">
++    <option name="NEW_BASE" value="refs/heads/develop" />
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+@@ -56,14 +55,14 @@
+     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+   </component>
+   <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
++    <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\css" />
+       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage" />
+-      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\bootstrap-4.6.0-dist" />
+     </key>
+-    <key name="CopyFile.RECENT_KEYS">
++    <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\css" />
+       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage" />
++      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\bootstrap-4.6.0-dist" />
+     </key>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -76,6 +75,7 @@
+       <updated>1613438113855</updated>
+       <workItem from="1613438114968" duration="767000" />
+       <workItem from="1613508640330" duration="853000" />
++      <workItem from="1613671742877" duration="1192000" />
+     </task>
+     <task id="LOCAL-00001" summary="Bootstrap had been added to the project. Basic configurations to make it works.">
+       <created>1613515387732</created>
+@@ -84,7 +84,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1613515387732</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="New resources: Fonts and pictures. Organization of old pictures.">
++      <created>1613598997046</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1613598997046</updated>
++    </task>
++    <task id="LOCAL-00003" summary="New page design.">
++      <created>1613599042960</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1613599042960</updated>
++    </task>
++    <task id="LOCAL-00004" summary=" Minor fixes to repair some design issues in the navbar after the merge of branch 'intro'.">
++      <created>1613609031609</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1613609031609</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -136,28 +157,43 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Bootstrap had been added to the project. Basic configurations to make it works." />
+-    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap had been added to the project. Basic configurations to make it works." />
++    <MESSAGE value="New resources: Fonts and pictures. Organization of old pictures." />
++    <MESSAGE value="New introduction design." />
++    <MESSAGE value=" Minor fixes to repair some design issues in the navbar after the merge of branch 'intro'." />
++    <option name="LAST_COMMIT_MESSAGE" value=" Minor fixes to repair some design issues in the navbar after the merge of branch 'intro'." />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="1543" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613438484571">
+       <screen x="94" y="0" width="2658" height="1152" />
+     </state>
+     <state x="1543" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613438484571" />
+-    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog" timestamp="1613534351909">
++    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog" timestamp="1613609057482">
+       <screen x="94" y="0" width="2658" height="1152" />
+     </state>
+-    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613534351909" />
++    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613609057482" />
++    <state x="612" y="101" key="MergeDialog" timestamp="1613599207961">
++      <screen x="94" y="0" width="2658" height="1152" />
++    </state>
++    <state x="612" y="101" key="MergeDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613599207961" />
++    <state x="1588" y="341" key="MultipleFileMergeDialog" timestamp="1613599213747">
++      <screen x="94" y="0" width="2658" height="1152" />
++    </state>
++    <state x="1588" y="341" key="MultipleFileMergeDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613599213747" />
+     <state x="1597" y="224" key="SettingsEditor" timestamp="1613516822754">
+       <screen x="94" y="0" width="2658" height="1152" />
+     </state>
+     <state x="1597" y="224" key="SettingsEditor/94.0.2658.1152@94.0.2658.1152" timestamp="1613516822754" />
+-    <state x="1681" y="312" key="Vcs.Push.Dialog.v2" timestamp="1613518645870">
++    <state x="1681" y="312" key="Vcs.Push.Dialog.v2" timestamp="1613609050219">
+       <screen x="94" y="0" width="2658" height="1152" />
+     </state>
+-    <state x="1681" y="312" key="Vcs.Push.Dialog.v2/94.0.2658.1152@94.0.2658.1152" timestamp="1613518645870" />
++    <state x="1681" y="312" key="Vcs.Push.Dialog.v2/94.0.2658.1152@94.0.2658.1152" timestamp="1613609050219" />
+     <state x="1745" y="272" key="run.anything.popup" timestamp="1613529494219">
+       <screen x="94" y="0" width="2658" height="1152" />
+     </state>
+     <state x="1745" y="272" key="run.anything.popup/94.0.2658.1152@94.0.2658.1152" timestamp="1613529494219" />
++    <state x="1751" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1613608453474">
++      <screen x="94" y="0" width="2658" height="1152" />
++    </state>
++    <state x="1751" y="258" width="672" height="678" key="search.everywhere.popup/94.0.2658.1152@94.0.2658.1152" timestamp="1613608453474" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -17,12 +17,30 @@
 
 }
 
-@media (min-height: 1000px) {
+@media (min-height: 1000px) and (max-width: 992px)  {
 
     .intro{
 
-        background: linear-gradient(90deg, rgba(0,0,0,1) 55%, rgba(255,255,255,1) 55%);
-        height: 100vh;
+        background: black;
+    }
+
+    .cursive{
+       color: white;
+
+    }
+    .brand-name{
+        color: white;
+    }
+
+
+}
+
+
+@media (min-height: 1000px) and (min-width: 992px)  {
+
+    .intro{
+
+height: 100vh;
     }
 
 }
