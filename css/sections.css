@@ -1,4 +1,6 @@
+body{
 
+}
 
 .intro {
     background: linear-gradient(90deg, rgba(0, 0, 0, 1) 55%, rgba(255, 255, 255, 1) 55%);
@@ -76,4 +78,41 @@
 
 
 
+
+
+
+
+
+
+
+
+
+.influence {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 50%, rgba(255, 255, 255, 1) 50%);
+}
+
+@media (max-width: 992px) {
+
+    .influence {
+        background: linear-gradient(180deg, rgba(0, 0, 0, 1) 80%, rgba(255, 255, 255, 1) 80%);
+    }
+
+}
+
+@media (min-height: 1000px) and (max-width: 992px) {
+
+    .influence {
+        background: linear-gradient(180deg, rgba(0, 0, 0, 1) 50%, rgba(255, 255, 255, 1) 50%);
+    }
+
+
+
+}
+
+
+@media (min-height: 1000px) and (min-width: 992px) {
+    .influence {
+        height: 100vh;
+    }
+}
 
