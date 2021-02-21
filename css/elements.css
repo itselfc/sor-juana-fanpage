@@ -13,3 +13,31 @@
     font-weight: 500;
     font-size: 19px;
 }
+
+.mark{
+    height: 10px;
+    width: auto;
+    background-color: #e9e9e9 !important;
+}
+
+.poem .container{
+
+    border-color: #ffd8ba;
+border-width: 10px;
+    border-style: solid;
+    background-color: white;
+}
+
+
+ul {
+    list-style-type: none;
+
+}
+
+
+ul li:before {
+    font-family: 'FontAwesome';
+    content: '\f105';
+    margin:0 5px 0 0px;
+    color: #000000;
+}
