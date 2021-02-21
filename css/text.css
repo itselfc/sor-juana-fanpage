@@ -55,12 +55,12 @@ h4{
 }
 
 
-.poem-title{
+.quote .poem-title{
     font-size: 15px;
     font-weight: bold;
 }
 
-.poem{
+.quote .poem{
     font-style: italic;
     font-size: 15px;
     letter-spacing: 1px;
@@ -97,4 +97,32 @@ h4{
  .quote{
     color: #b8b8b8;
     font-family: Georgia;
+}
+
+.poem  .description{
+text-align: center;
+
+    padding: 50px;
+    font-weight: 500;
+    font-family: "Trebuchet MS";
+
+ }
+
+
+.poem .header{
+
+    margin-left: -50px;
+    margin-right: -50px;
+    text-align: center;
+    background-color: black;
+
+}
+
+.poem .title{
+
+    text-transform: uppercase!important;
+    font-size: 45px;
+    font-family: "Trebuchet MS";
+    color: white;
+
 }
