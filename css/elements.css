@@ -29,13 +29,12 @@ border-width: 10px;
 }
 
 
-ul {
+.about ul {
     list-style-type: none;
-
 }
 
 
-ul li:before {
+.about ul li:before {
     font-family: 'FontAwesome';
     content: '\f105';
     margin:0 5px 0 0px;
