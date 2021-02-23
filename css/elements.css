@@ -1,7 +1,9 @@
 
-.bg-yellow{
+
+
+#title-container{
+    padding: 4em;
     background-color: #ffd8ba;
-    padding: 100px;
 }
 
 
@@ -40,3 +42,43 @@ border-width: 10px;
     margin:0 5px 0 0px;
     color: #000000;
 }
+
+
+
+#flag{
+    max-width: 300px;
+    height: auto;
+}
+
+
+#portrait1{
+    max-width: 75%;
+    height: auto;
+}
+
+#portrait2{
+    max-width: 100%;
+    height: auto;
+}
+
+
+@media (max-width: 992px) {
+    #portrait2{
+        max-width: 75%;
+        height: auto;
+    }
+    #portrait1{
+        max-width: 100%;
+        height: auto;
+    }
+
+
+}
+
+
+.picture{
+    text-align: center;
+    padding:3em 3em 3em 3em!important;
+    background-color: black!important;
+}
+
