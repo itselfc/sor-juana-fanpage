@@ -23,33 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/colors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/elements.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/elements.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/D5V-B6IWsAE6Hy1.jpg_large" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/img5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/intro-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/intro-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Old/intro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/author-sor-juana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/author-sor-juana2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/book2.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/book3.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/page-sketch.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/page-sketch2.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/sketch1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/sketch2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/sketch3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/sketch4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/sketch5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/the-poetry-club-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/resource/images/the-poetry-club-white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/the-poetry-club.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/the-poetry-club.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +76,7 @@
       <workItem from="1613438114968" duration="767000" />
       <workItem from="1613508640330" duration="853000" />
       <workItem from="1613954800527" duration="1972000" />
+      <workItem from="1614046162543" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap had been added to the project. Basic configurations to make it works.">
       <created>1613515387732</created>
