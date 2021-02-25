@@ -82,3 +82,12 @@ border-width: 10px;
     background-color: black!important;
 }
 
+
+
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev{
+    display:block;
+}
+
