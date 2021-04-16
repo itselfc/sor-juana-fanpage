@@ -20,9 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4d32119-3bb7-4ab8-872d-e23a46f1dcc3" name="Default Changelist" comment="Bootstrap had been added to the project. Basic configurations to make it works.">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scroll-up.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/elements.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/elements.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/introduction.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/life.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sections.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sections.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/text.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +59,9 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,9 +70,29 @@
       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\bootstrap-4.6.0-dist" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\js" />
       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage\css" />
       <recent name="C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage" />
     </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Page.localhost">
+    <configuration name="sor-juana-fanpage" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost/sor-juana-fanpage/">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/sor-juana-fanpage">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>2451ef9a-73d8-4827-b5a5-0479a0742aec</server_id>
+          <server_name>localhost</server_name>
+          <group_name />
+          <path>C:\Users\itzel\Proyectos\HTML\sor-juana-fanpage</path>
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.sor-juana-fanpage" />
+      <item itemvalue="PHP Web Page.localhost" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,6 +106,10 @@
       <workItem from="1613508640330" duration="853000" />
       <workItem from="1613954800527" duration="1972000" />
       <workItem from="1614046162543" duration="638000" />
+      <workItem from="1614535236175" duration="16000" />
+      <workItem from="1614794420947" duration="368000" />
+      <workItem from="1618507224156" duration="318000" />
+      <workItem from="1618525367732" duration="5584000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap had been added to the project. Basic configurations to make it works.">
       <created>1613515387732</created>
@@ -92,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613942824693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New page title.">
+      <created>1614390115901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614390115901</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Intellij configs.">
+      <created>1618526325486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618526325486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +179,36 @@
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="navbar-reponsive-bug" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="page-sections" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="small-devices-design" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="static-poetry-reading" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="origin/master" />
                 </option>
               </RecentGroup>
@@ -145,17 +222,107 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bootstrap had been added to the project. Basic configurations to make it works." />
     <MESSAGE value="Book's covers pictures for popular culture section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Book's covers pictures for popular culture section." />
+    <MESSAGE value="More poems to read. New JS file functions to manipulate poem preview." />
+    <MESSAGE value="New page title." />
+    <MESSAGE value="Intellij configs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Intellij configs." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1543" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613438484571">
-      <screen x="94" y="0" width="2658" height="1152" />
+    <state x="908" y="161" key="#Deployment" timestamp="1618526480590">
+      <screen x="94" y="0" width="2199" height="960" />
     </state>
+    <state x="908" y="161" key="#Deployment/94.0.2199.960@94.0.2199.960" timestamp="1618526480590" />
+    <state x="1329" y="219" key="#Servers" timestamp="1618526207297">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="1329" y="219" key="#Servers/94.0.2199.960@94.0.2199.960" timestamp="1618526207297" />
+    <state x="1148" y="7" width="1089" height="953" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618538668122">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="1148" y="7" width="1089" height="953" key="#com.intellij.execution.impl.EditConfigurationsDialog/94.0.2199.960@94.0.2199.960" timestamp="1618538668122" />
     <state x="1543" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613438484571" />
-    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog" timestamp="1613955287149">
-      <screen x="94" y="0" width="2658" height="1152" />
+    <state x="1495" y="286" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618526866708">
+      <screen x="94" y="0" width="2199" height="960" />
     </state>
-    <state x="1517" y="100" width="1142" height="958" key="DiffContextDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613955287149" />
+    <state x="1495" y="286" key="#com.intellij.fileTypes.FileTypeChooser/94.0.2199.960@94.0.2199.960" timestamp="1618526866708" />
+    <state x="307" y="55" width="1598" height="799" key="DiffContextDialog" timestamp="1618507544146">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="307" y="55" width="1598" height="799" key="DiffContextDialog/94.0.2199.960@94.0.2199.960" timestamp="1618507544146" />
+    <state x="352" y="66" width="1931" height="958" key="DiffContextDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1614389847529" />
+    <state x="1562" y="278" key="FileChooserDialogImpl" timestamp="1618538440878">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="1562" y="278" key="FileChooserDialogImpl/94.0.2199.960@94.0.2199.960" timestamp="1618538440878" />
+    <state x="1869" y="334" key="FileChooserDialogImpl/94.0.2658.1152@94.0.2658.1152" timestamp="1614535249154" />
+    <state width="1055" height="306" key="GridCell.Tab.0.bottom" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.0.bottom/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1284" height="311" key="GridCell.Tab.0.bottom/94.0.2658.1152@94.0.2658.1152" timestamp="1614535035571" />
+    <state width="1055" height="306" key="GridCell.Tab.0.center" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.0.center/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1284" height="311" key="GridCell.Tab.0.center/94.0.2658.1152@94.0.2658.1152" timestamp="1614535035571" />
+    <state width="1055" height="306" key="GridCell.Tab.0.left" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.0.left/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1284" height="311" key="GridCell.Tab.0.left/94.0.2658.1152@94.0.2658.1152" timestamp="1614535035570" />
+    <state width="1055" height="306" key="GridCell.Tab.0.right" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.0.right/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1284" height="311" key="GridCell.Tab.0.right/94.0.2658.1152@94.0.2658.1152" timestamp="1614535035571" />
+    <state width="1055" height="306" key="GridCell.Tab.1.bottom" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.1.bottom/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.1.center" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.1.center/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.1.left" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.1.left/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.1.right" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.1.right/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.2.bottom" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.2.bottom/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.2.center" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.2.center/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.2.left" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.2.left/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.2.right" timestamp="1618540160147">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.2.right/94.0.2199.960@94.0.2199.960" timestamp="1618540160147" />
+    <state width="1055" height="306" key="GridCell.Tab.3.bottom" timestamp="1618538400728">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.3.bottom/94.0.2199.960@94.0.2199.960" timestamp="1618538400728" />
+    <state width="1055" height="306" key="GridCell.Tab.3.center" timestamp="1618538400727">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.3.center/94.0.2199.960@94.0.2199.960" timestamp="1618538400727" />
+    <state width="1055" height="306" key="GridCell.Tab.3.left" timestamp="1618538400727">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.3.left/94.0.2199.960@94.0.2199.960" timestamp="1618538400727" />
+    <state width="1055" height="306" key="GridCell.Tab.3.right" timestamp="1618538400727">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state width="1055" height="306" key="GridCell.Tab.3.right/94.0.2199.960@94.0.2199.960" timestamp="1618538400727" />
     <state x="612" y="91" key="MergeDialog" timestamp="1613942920118">
       <screen x="94" y="0" width="2658" height="1152" />
     </state>
@@ -164,21 +331,40 @@
       <screen x="94" y="0" width="2658" height="1152" />
     </state>
     <state x="1727" y="331" key="MultipleFileMergeDialog/94.0.2658.1152@94.0.2658.1152" timestamp="1613942920123" />
-    <state x="1597" y="224" key="SettingsEditor" timestamp="1613516822754">
-      <screen x="94" y="0" width="2658" height="1152" />
+    <state x="1453" y="186" key="RollbackChangesDialog" timestamp="1618526334850">
+      <screen x="94" y="0" width="2199" height="960" />
     </state>
+    <state x="1453" y="186" key="RollbackChangesDialog/94.0.2199.960@94.0.2199.960" timestamp="1618526334850" />
+    <state x="1297" y="187" key="SettingsEditor" timestamp="1618526929900">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="1297" y="187" key="SettingsEditor/94.0.2199.960@94.0.2199.960" timestamp="1618526929900" />
     <state x="1597" y="224" key="SettingsEditor/94.0.2658.1152@94.0.2658.1152" timestamp="1613516822754" />
     <state x="1681" y="312" key="Vcs.Push.Dialog.v2" timestamp="1613518645870">
       <screen x="94" y="0" width="2658" height="1152" />
     </state>
-    <state x="1681" y="312" key="Vcs.Push.Dialog.v2/94.0.2658.1152@94.0.2658.1152" timestamp="1613518645870" />
-    <state x="1745" y="272" key="run.anything.popup" timestamp="1613955983708">
-      <screen x="94" y="0" width="2658" height="1152" />
+    <state x="1906" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/94.0.2658.1152@94.0.2658.1152" timestamp="1614389933595" />
+    <state x="1146" y="373" width="523" height="258" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1618538475540">
+      <screen x="94" y="0" width="2199" height="960" />
     </state>
+    <state x="1146" y="373" width="523" height="258" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/94.0.2199.960@94.0.2199.960" timestamp="1618538475540" />
+    <state x="900" y="213" width="587" height="534" key="find.popup" timestamp="1618538335912">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="900" y="213" width="587" height="534" key="find.popup/94.0.2199.960@94.0.2199.960" timestamp="1618538335912" />
+    <state x="1615" y="376" key="publish.login" timestamp="1618525507680">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="1615" y="376" key="publish.login/94.0.2199.960@94.0.2199.960" timestamp="1618525507680" />
+    <state x="1460" y="227" key="run.anything.popup" timestamp="1618538987423">
+      <screen x="94" y="0" width="2199" height="960" />
+    </state>
+    <state x="1460" y="227" key="run.anything.popup/94.0.2199.960@94.0.2199.960" timestamp="1618538987423" />
     <state x="1745" y="272" key="run.anything.popup/94.0.2658.1152@94.0.2658.1152" timestamp="1613955983708" />
-    <state x="1750" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1613955503120">
-      <screen x="94" y="0" width="2658" height="1152" />
+    <state x="1464" y="211" width="672" height="565" key="search.everywhere.popup" timestamp="1618540940231">
+      <screen x="94" y="0" width="2199" height="960" />
     </state>
+    <state x="1464" y="211" width="672" height="565" key="search.everywhere.popup/94.0.2199.960@94.0.2199.960" timestamp="1618540940231" />
     <state x="1750" y="253" width="672" height="678" key="search.everywhere.popup/94.0.2658.1152@94.0.2658.1152" timestamp="1613955503120" />
   </component>
 </project>

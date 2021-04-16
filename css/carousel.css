@@ -13,3 +13,9 @@ font-size: 10px;
 .carousel-item {
     transition-duration: 1ms!important;
 }
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+    display: block;
+}

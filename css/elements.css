@@ -1,31 +1,30 @@
 
-
-
-#title-container{
-    padding: 4em;
+#title-container {
+    margin-top: 4em;
+    padding: 5em;
     background-color: #ffd8ba;
 }
 
 
-.intro .btn-dark{
+.intro .btn-dark {
     background-color: black;
     width: 50%;
     border-radius: 0 0 0 0;
     letter-spacing: 2px;
     font-weight: 500;
-    font-size: 19px;
+    font-size: 12px;
 }
 
-.mark{
+.mark {
     height: 10px;
     width: auto;
     background-color: #e9e9e9 !important;
 }
 
-.poem .container{
+.poem .container {
 
     border-color: #ffd8ba;
-border-width: 10px;
+    border-width: 10px;
     border-style: solid;
     background-color: white;
 }
@@ -39,35 +38,35 @@ border-width: 10px;
 .about ul li:before {
     font-family: 'FontAwesome';
     content: '\f105';
-    margin:0 5px 0 0px;
+    margin: 0 5px 0 0px;
     color: #000000;
 }
 
 
-
-#flag{
+#flag {
     max-width: 300px;
     height: auto;
 }
 
 
-#portrait1{
+#portrait1 {
     max-width: 75%;
     height: auto;
 }
 
-#portrait2{
+#portrait2 {
     max-width: 100%;
     height: auto;
 }
 
 
 @media (max-width: 992px) {
-    #portrait2{
+    #portrait2 {
         max-width: 75%;
         height: auto;
     }
-    #portrait1{
+
+    #portrait1 {
         max-width: 100%;
         height: auto;
     }
@@ -76,18 +75,32 @@ border-width: 10px;
 }
 
 
-.picture{
+.picture {
     text-align: center;
-    padding:3em 3em 3em 3em!important;
-    background-color: black!important;
+    padding: 3em 3em 3em 3em !important;
+    background-color: black !important;
 }
 
 
 
 
-.carousel-item.active,
-.carousel-item-next,
-.carousel-item-prev{
-    display:block;
+#scrollUpButton {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: black;
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    border-radius: 100%; /* Rounded corners */
+    font-size: 25px; /* Increase font size */
+    height: 50px;
+    width: 50px;
 }
 
+#scrollUpButton:hover {
+    background-color: black;
+}

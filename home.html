@@ -4,36 +4,21 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>CodePen - Sor Juana </title>
-    <link rel="stylesheet" href="css/navbar.css">
-    <link rel="stylesheet" href="css/sections.css">
-    <link rel="stylesheet" href="css/text.css">
-    <link rel="stylesheet" href="css/elements.css">
-    <link rel="stylesheet" href="css/carousel.css">
-
+    <title>The poetry club - Sor Juana </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <script src="https://kit.fontawesome.com/37381f0e65.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css"/>
-
-
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-            crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
-            integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
-            crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-            integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-            crossorigin="anonymous"></script>
-
-    <script src="js/poem-reading.js"></script>
-
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/sections.css">
+    <link rel="stylesheet" href="css/elements.css">
+    <link rel="stylesheet" href="css/carousel.css">
+    <link rel="stylesheet" href="css/text.css">
 
 </head>
 
 
 <header id="nav">
-    <nav class="navbar navbar-fixed-top navbar-toggleable-md navbar-expand ">
+    <nav class="navbar fixed-top navbar-toggleable-md navbar-expand ">
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand" href="#intro">
@@ -63,7 +48,9 @@
     </nav>
 </header>
 
-
+<button onclick="topFunction()" id="scrollUpButton" title="Scroll up">
+    <i class="fa fa-angle-double-up"></i>
+</button>
 <body>
 
 <main>
@@ -77,7 +64,7 @@
 
 
                 </div>
-                <div id="title-container" class="col-lg-6 ">
+                <div id="title-container" class="col-lg-6">
                     <div>
                         <h1>
                             Sor<br>
@@ -229,7 +216,7 @@
                     </div>
 
 
-                    <h4>POETRY</h4>
+                    <h3>POETRY</h3>
                     <p class="w-75">
                     <ol type="I" class="poems-list">
 
@@ -861,6 +848,19 @@
         </div>
     </section>
 </main>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+        crossorigin="anonymous"></script>
+<script src="js/poem-reading.js"></script>
+<script src="js/scroll-up.js"></script>
 
 </body>
+
+
 </html>
